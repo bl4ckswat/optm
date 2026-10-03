@@ -1,0 +1,19 @@
+# opencode
+opencode.json
+.opencode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Build
+build/
+dist/
+*.spec
+
+# OS
+Thumbs.db
+desktop.ini
